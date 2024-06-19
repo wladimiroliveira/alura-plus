@@ -175,6 +175,10 @@ body {
         flex-direction: column-reverse;
     }
 
+    .container__titulo {
+        font-size: 1.5rem;
+    }
+
     .secundario {
         margin: 0 2rem;
     }
@@ -190,7 +194,7 @@ body {
 
     .descricao__titulo {
         text-align: center;
-        font-size: 1.75rem;
+        font-size: 1.5rem;
     }
 
     .descricao__texto {
@@ -211,11 +215,11 @@ body {
     }
 
     .dispositivos__titulo {
-        font-size: 1.75rem;
+        font-size: 1.5rem;
     }
 
     .lista__item {
-        font-size: 1.25rem;
+        font-size: 1.2rem;
     }
 
     .rodape__lista {
